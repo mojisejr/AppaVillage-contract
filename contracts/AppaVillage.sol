@@ -1300,8 +1300,8 @@ contract AppaVillage is ERC721Enumerable, Ownable {
   
 
     // wd addresses
-    address a1 = 0x98ac3c4a968D349F4Bd84507ac957ab0Bb602Acf;
-    address a2 = 0x307206BAAd2CD7C04c8ba377df66Ba06B2556f7e;
+    address a1 = 0x0000000000000000000000000000000000000000;
+    address a2 = 0x0000000000000000000000000000000000000000;
     
     address[] public whitelist;
 
